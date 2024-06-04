@@ -10,3 +10,6 @@ A síntese de voz é um ramo fascinante da inteligência artificial que tem revo
 ---
 
 Fiz uma breve descrição do conceito estatístico de correlação de Pearson.
+
+Descrição: [Áudio](https://github.com/andersoncsalles/podcast/blob/main/audio/ElevenLabs_2024-06-04T12_59_10_Daniel.mp3)
+
